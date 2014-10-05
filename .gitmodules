@@ -1,0 +1,3 @@
+[submodule "java/starters/osgi/akka-karaf-gradle-java-starter"]
+	path = java/starters/osgi/akka-karaf-gradle-java-starter
+	url = https://github.com/afronski/akka-karaf-gradle-java-starter
