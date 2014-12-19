@@ -7,6 +7,7 @@
     - *Spring Boot*
     - *Scalatra*
   - Apache Spark.
+  - Clojure deployment.
 - Starters:
   - Karaf with Akka and Gradle (both versions - 1.7 and 1.8).
   - DDD starter.
